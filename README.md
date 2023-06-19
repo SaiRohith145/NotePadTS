@@ -1,7 +1,9 @@
 # NotePadTS
 Notepad app. Build on TypeScript.
 ## About
-This Web App will store your note in local storage of your web browser.
+This Web App will store your notes in local storage of your web browser.
+You can create and delete your notes.
+You can add tags to notes.
 
 ## Steps To Run
 1. Clone the project
